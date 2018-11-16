@@ -5,24 +5,24 @@
       "path---standings-eef9ef717aaa9f6107cc.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-d12bcc8853783f7a0636.js",
-      "component---src-pages-index-js-d12bcc8853783f7a0636.js.map"
+      "component---src-pages-index-js-d48d4d008df6987ae1df.js",
+      "component---src-pages-index-js-d48d4d008df6987ae1df.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-standings-js": [
-      "component---src-pages-standings-js-66e948477724d8797370.js",
-      "component---src-pages-standings-js-66e948477724d8797370.js.map"
+      "component---src-pages-standings-js-38b781f542c333de25ec.js",
+      "component---src-pages-standings-js-38b781f542c333de25ec.js.map"
     ],
     "component---src-pages-headtohead-js": [
-      "component---src-pages-headtohead-js-f641ac7fac04ea316e74.js",
-      "component---src-pages-headtohead-js-f641ac7fac04ea316e74.js.map"
+      "component---src-pages-headtohead-js-973ab5d5cacf2fcfb53a.js",
+      "component---src-pages-headtohead-js-973ab5d5cacf2fcfb53a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-fe30fad0742608ce26b9.js",
-      "component---src-layouts-index-js-fe30fad0742608ce26b9.js.map"
+      "component---src-layouts-index-js-1debe8ba42959d968564.js",
+      "component---src-layouts-index-js-1debe8ba42959d968564.js.map"
     ],
     "path---index": [
       "path---index-eef9ef717aaa9f6107cc.js",
@@ -30,11 +30,15 @@
     ],
     "commons": [
       "commons-18c22dfd49ddbfde01cf.js",
-      "commons-18c22dfd49ddbfde01cf.js.map"
+      "build-js-styles.css",
+      "commons-18c22dfd49ddbfde01cf.js.map",
+      "build-js-styles.css.map"
     ],
     "app": [
       "app-aef871b04de614ed82b2.js",
-      "app-aef871b04de614ed82b2.js.map"
+      "build-js-styles.css",
+      "app-aef871b04de614ed82b2.js.map",
+      "build-js-styles.css.map"
     ],
     "path---headtohead": [
       "path---headtohead-eef9ef717aaa9f6107cc.js",
