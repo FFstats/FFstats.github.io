@@ -1,32 +1,32 @@
 {
   "assetsByChunkName": {
     "path---standings": [
-      "path---standings-5c0563938783ea6676a1.js",
-      "path---standings-5c0563938783ea6676a1.js.map"
+      "path---standings-d4ff2a89a21bf8c38266.js",
+      "path---standings-d4ff2a89a21bf8c38266.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-39abd0705100e1907041.js",
-      "component---src-pages-index-js-39abd0705100e1907041.js.map"
+      "component---src-pages-index-js-7d43ce8bd654014e96de.js",
+      "component---src-pages-index-js-7d43ce8bd654014e96de.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-standings-js": [
-      "component---src-pages-standings-js-6bc287b17d4a404a509d.js",
-      "component---src-pages-standings-js-6bc287b17d4a404a509d.js.map"
+      "component---src-pages-standings-js-431f014d3de81a19a121.js",
+      "component---src-pages-standings-js-431f014d3de81a19a121.js.map"
     ],
     "component---src-pages-headtohead-js": [
-      "component---src-pages-headtohead-js-9d3a966bec448653a188.js",
-      "component---src-pages-headtohead-js-9d3a966bec448653a188.js.map"
+      "component---src-pages-headtohead-js-e4648031fe55f5d9644b.js",
+      "component---src-pages-headtohead-js-e4648031fe55f5d9644b.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-f8465ae099f84641c943.js",
       "component---src-layouts-index-js-f8465ae099f84641c943.js.map"
     ],
     "path---index": [
-      "path---index-5c0563938783ea6676a1.js",
-      "path---index-5c0563938783ea6676a1.js.map"
+      "path---index-24042574efc9a5878f02.js",
+      "path---index-24042574efc9a5878f02.js.map"
     ],
     "commons": [
       "commons-974136f471d8094fc340.js",
@@ -41,8 +41,8 @@
       "build-js-styles.css.map"
     ],
     "path---headtohead": [
-      "path---headtohead-5c0563938783ea6676a1.js",
-      "path---headtohead-5c0563938783ea6676a1.js.map"
+      "path---headtohead-24042574efc9a5878f02.js",
+      "path---headtohead-24042574efc9a5878f02.js.map"
     ]
   }
 }
