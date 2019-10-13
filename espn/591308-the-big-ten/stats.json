@@ -1,32 +1,32 @@
 {
   "assetsByChunkName": {
     "path---standings": [
-      "path---standings-77f2567c729d0462dd72.js",
-      "path---standings-77f2567c729d0462dd72.js.map"
+      "path---standings-2ee2716833e6f84c210d.js",
+      "path---standings-2ee2716833e6f84c210d.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-d83a20ccdc4096705e7a.js",
-      "component---src-pages-index-js-d83a20ccdc4096705e7a.js.map"
+      "component---src-pages-index-js-a1dfb3a21609c345943e.js",
+      "component---src-pages-index-js-a1dfb3a21609c345943e.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-standings-js": [
-      "component---src-pages-standings-js-eee4b4c11281dbbb69ba.js",
-      "component---src-pages-standings-js-eee4b4c11281dbbb69ba.js.map"
+      "component---src-pages-standings-js-47dc028c9690ba062fa9.js",
+      "component---src-pages-standings-js-47dc028c9690ba062fa9.js.map"
     ],
     "component---src-pages-headtohead-js": [
       "component---src-pages-headtohead-js-2b79c23e20c0978b042e.js",
       "component---src-pages-headtohead-js-2b79c23e20c0978b042e.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2e1689b840c57f22490b.js",
-      "component---src-layouts-index-js-2e1689b840c57f22490b.js.map"
+      "component---src-layouts-index-js-fe2fae6f87cd90aef8d5.js",
+      "component---src-layouts-index-js-fe2fae6f87cd90aef8d5.js.map"
     ],
     "path---index": [
-      "path---index-77f2567c729d0462dd72.js",
-      "path---index-77f2567c729d0462dd72.js.map"
+      "path---index-1d957ac0e267da5fc7c2.js",
+      "path---index-1d957ac0e267da5fc7c2.js.map"
     ],
     "commons": [
       "commons-7c3c6cc396d182eb1af1.js",
@@ -41,8 +41,8 @@
       "build-js-styles.css.map"
     ],
     "path---headtohead": [
-      "path---headtohead-77f2567c729d0462dd72.js",
-      "path---headtohead-77f2567c729d0462dd72.js.map"
+      "path---headtohead-2ee2716833e6f84c210d.js",
+      "path---headtohead-2ee2716833e6f84c210d.js.map"
     ]
   }
 }
