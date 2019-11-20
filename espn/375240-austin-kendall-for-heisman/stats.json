@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---standings": [
-      "path---standings-2ff9282c91a95a728433.js",
-      "path---standings-2ff9282c91a95a728433.js.map"
+      "path---standings-60937bbd50d054b0fac3.js",
+      "path---standings-60937bbd50d054b0fac3.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-a1dfb3a21609c345943e.js",
@@ -25,8 +25,8 @@
       "component---src-layouts-index-js-fe2fae6f87cd90aef8d5.js.map"
     ],
     "path---index": [
-      "path---index-8990b781d994599b8631.js",
-      "path---index-8990b781d994599b8631.js.map"
+      "path---index-771d502108eaee896244.js",
+      "path---index-771d502108eaee896244.js.map"
     ],
     "commons": [
       "commons-7c3c6cc396d182eb1af1.js",
@@ -41,8 +41,8 @@
       "build-js-styles.css.map"
     ],
     "path---headtohead": [
-      "path---headtohead-2ff9282c91a95a728433.js",
-      "path---headtohead-2ff9282c91a95a728433.js.map"
+      "path---headtohead-60937bbd50d054b0fac3.js",
+      "path---headtohead-60937bbd50d054b0fac3.js.map"
     ]
   }
 }
