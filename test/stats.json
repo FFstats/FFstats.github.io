@@ -1,0 +1,62 @@
+{
+  "assetsByChunkName": {
+    "component---src-layouts-en-js": [
+      "component---src-layouts-en-js-426283baf241f0d5b0a4.js",
+      "component---src-layouts-en-js-426283baf241f0d5b0a4.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-ba3ec4d1f5f80862217c.js",
+      "component---src-pages-index-js-ba3ec4d1f5f80862217c.js.map"
+    ],
+    "component---src-pages-index-es-js": [
+      "component---src-pages-index-es-js-78b55b2ba25950e98092.js",
+      "component---src-pages-index-es-js-78b55b2ba25950e98092.js.map"
+    ],
+    "path---": [
+      "path----8574c65d23a401ccd9fb.js",
+      "path----8574c65d23a401ccd9fb.js.map"
+    ],
+    "path---portfolio-item": [
+      "path---portfolio-item-8da1c147369d77f3036f.js",
+      "path---portfolio-item-8da1c147369d77f3036f.js.map"
+    ],
+    "path---index": [
+      "path---index-878da800a826d569fdf8.js",
+      "path---index-878da800a826d569fdf8.js.map"
+    ],
+    "path---es": [
+      "path---es-669fe76c2a712e7085b8.js",
+      "path---es-669fe76c2a712e7085b8.js.map"
+    ],
+    "commons": [
+      "commons-9334e77a6a8b7240879d.js",
+      "build-js-styles.css",
+      "commons-9334e77a6a8b7240879d.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-index-en-js": [
+      "component---src-pages-index-en-js-ba3ec4d1f5f80862217c.js",
+      "component---src-pages-index-en-js-ba3ec4d1f5f80862217c.js.map"
+    ],
+    "component---src-layouts-portfolio-item-js": [
+      "component---src-layouts-portfolio-item-js-753f721097a5ee96cbcd.js",
+      "component---src-layouts-portfolio-item-js-753f721097a5ee96cbcd.js.map"
+    ],
+    "component---src-pages-portfolio-item-js": [
+      "component---src-pages-portfolio-item-js-8c14152955a1b19c1c6f.js",
+      "component---src-pages-portfolio-item-js-8c14152955a1b19c1c6f.js.map"
+    ],
+    "component---src-layouts-es-js": [
+      "component---src-layouts-es-js-64122f62ddf4c45a59d2.js",
+      "component---src-layouts-es-js-64122f62ddf4c45a59d2.js.map"
+    ],
+    "app": [
+      "app-24d96e9cb6acaf149092.js",
+      "app-24d96e9cb6acaf149092.js.map"
+    ],
+    "path---en": [
+      "path---en-83941120ae08de6655ab.js",
+      "path---en-83941120ae08de6655ab.js.map"
+    ]
+  }
+}
