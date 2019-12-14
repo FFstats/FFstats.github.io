@@ -13,12 +13,12 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-gamerecords-js": [
-      "component---src-pages-gamerecords-js-7ffb8013f8f94ca63241.js",
-      "component---src-pages-gamerecords-js-7ffb8013f8f94ca63241.js.map"
+      "component---src-pages-gamerecords-js-fd36ec20953d924a70a8.js",
+      "component---src-pages-gamerecords-js-fd36ec20953d924a70a8.js.map"
     ],
     "component---src-pages-teamrecords-js": [
-      "component---src-pages-teamrecords-js-5e836f730777beac4d3e.js",
-      "component---src-pages-teamrecords-js-5e836f730777beac4d3e.js.map"
+      "component---src-pages-teamrecords-js-a8eb5c960f0d8c886beb.js",
+      "component---src-pages-teamrecords-js-a8eb5c960f0d8c886beb.js.map"
     ],
     "component---src-pages-standings-js": [
       "component---src-pages-standings-js-a42c45533c33a30b3c87.js",
@@ -29,12 +29,20 @@
       "component---src-pages-headtohead-js-3a889a4e1a15ec323374.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2370f6cd076cce88f277.js",
-      "component---src-layouts-index-js-2370f6cd076cce88f277.js.map"
+      "component---src-layouts-index-js-20073fb43a158384a0d5.js",
+      "component---src-layouts-index-js-20073fb43a158384a0d5.js.map"
+    ],
+    "path---support": [
+      "path---support-a0e39f21c11f6a62c5ab.js",
+      "path---support-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-fe7475a346400efe8640.js",
       "path---index-fe7475a346400efe8640.js.map"
+    ],
+    "component---src-pages-support-js": [
+      "component---src-pages-support-js-d76aaef346f297e64941.js",
+      "component---src-pages-support-js-d76aaef346f297e64941.js.map"
     ],
     "commons": [
       "commons-b47f41a17655493c6b17.js",
@@ -43,9 +51,9 @@
       "build-js-styles.css.map"
     ],
     "app": [
-      "app-2dd18b2635c5931b6c82.js",
+      "app-c334f3c52ccfccc3720c.js",
       "build-js-styles.css",
-      "app-2dd18b2635c5931b6c82.js.map",
+      "app-c334f3c52ccfccc3720c.js.map",
       "build-js-styles.css.map"
     ],
     "path---teamrecords": [
