@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "path---standings": [
-      "path---standings-329f67a055b8bd2c28e2.js",
-      "path---standings-329f67a055b8bd2c28e2.js.map"
+      "path---standings-9333770e8c2e7b926c68.js",
+      "path---standings-9333770e8c2e7b926c68.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-7be20d5ca8a10527f885.js",
-      "component---src-pages-index-js-7be20d5ca8a10527f885.js.map"
+      "component---src-pages-index-js-7611a572603a191b6e93.js",
+      "component---src-pages-index-js-7611a572603a191b6e93.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -25,8 +25,8 @@
       "component---src-pages-standings-js-a42c45533c33a30b3c87.js.map"
     ],
     "component---src-pages-headtohead-js": [
-      "component---src-pages-headtohead-js-3a889a4e1a15ec323374.js",
-      "component---src-pages-headtohead-js-3a889a4e1a15ec323374.js.map"
+      "component---src-pages-headtohead-js-b38997ae6cf5ef948904.js",
+      "component---src-pages-headtohead-js-b38997ae6cf5ef948904.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-20073fb43a158384a0d5.js",
@@ -37,12 +37,12 @@
       "path---support-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-1e691c3c9f297d7516ba.js",
-      "path---index-1e691c3c9f297d7516ba.js.map"
+      "path---index-49393b0c68f94cb88127.js",
+      "path---index-49393b0c68f94cb88127.js.map"
     ],
     "component---src-pages-support-js": [
-      "component---src-pages-support-js-d76aaef346f297e64941.js",
-      "component---src-pages-support-js-d76aaef346f297e64941.js.map"
+      "component---src-pages-support-js-b7d1cf2da0f54fa0cf7e.js",
+      "component---src-pages-support-js-b7d1cf2da0f54fa0cf7e.js.map"
     ],
     "commons": [
       "commons-b47f41a17655493c6b17.js",
@@ -57,16 +57,16 @@
       "build-js-styles.css.map"
     ],
     "path---teamrecords": [
-      "path---teamrecords-329f67a055b8bd2c28e2.js",
-      "path---teamrecords-329f67a055b8bd2c28e2.js.map"
+      "path---teamrecords-9333770e8c2e7b926c68.js",
+      "path---teamrecords-9333770e8c2e7b926c68.js.map"
     ],
     "path---gamerecords": [
-      "path---gamerecords-329f67a055b8bd2c28e2.js",
-      "path---gamerecords-329f67a055b8bd2c28e2.js.map"
+      "path---gamerecords-9333770e8c2e7b926c68.js",
+      "path---gamerecords-9333770e8c2e7b926c68.js.map"
     ],
     "path---headtohead": [
-      "path---headtohead-329f67a055b8bd2c28e2.js",
-      "path---headtohead-329f67a055b8bd2c28e2.js.map"
+      "path---headtohead-9333770e8c2e7b926c68.js",
+      "path---headtohead-9333770e8c2e7b926c68.js.map"
     ]
   }
 }
