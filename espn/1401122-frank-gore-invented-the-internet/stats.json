@@ -5,36 +5,44 @@
       "path---standings-287794971b7d215762f7.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-6ecd499911fdeb547b8e.js",
-      "component---src-pages-index-js-6ecd499911fdeb547b8e.js.map"
+      "component---src-pages-index-js-7611a572603a191b6e93.js",
+      "component---src-pages-index-js-7611a572603a191b6e93.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-gamerecords-js": [
-      "component---src-pages-gamerecords-js-d543950b9256da59ac71.js",
-      "component---src-pages-gamerecords-js-d543950b9256da59ac71.js.map"
+      "component---src-pages-gamerecords-js-fd36ec20953d924a70a8.js",
+      "component---src-pages-gamerecords-js-fd36ec20953d924a70a8.js.map"
     ],
     "component---src-pages-teamrecords-js": [
-      "component---src-pages-teamrecords-js-5f269fe1e5bd2beaa57d.js",
-      "component---src-pages-teamrecords-js-5f269fe1e5bd2beaa57d.js.map"
+      "component---src-pages-teamrecords-js-a8eb5c960f0d8c886beb.js",
+      "component---src-pages-teamrecords-js-a8eb5c960f0d8c886beb.js.map"
     ],
     "component---src-pages-standings-js": [
       "component---src-pages-standings-js-a42c45533c33a30b3c87.js",
       "component---src-pages-standings-js-a42c45533c33a30b3c87.js.map"
     ],
     "component---src-pages-headtohead-js": [
-      "component---src-pages-headtohead-js-3a889a4e1a15ec323374.js",
-      "component---src-pages-headtohead-js-3a889a4e1a15ec323374.js.map"
+      "component---src-pages-headtohead-js-b38997ae6cf5ef948904.js",
+      "component---src-pages-headtohead-js-b38997ae6cf5ef948904.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-20f84b201594da043ac2.js",
-      "component---src-layouts-index-js-20f84b201594da043ac2.js.map"
+      "component---src-layouts-index-js-20073fb43a158384a0d5.js",
+      "component---src-layouts-index-js-20073fb43a158384a0d5.js.map"
+    ],
+    "path---support": [
+      "path---support-a0e39f21c11f6a62c5ab.js",
+      "path---support-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-ca4677e3ce331a65348d.js",
       "path---index-ca4677e3ce331a65348d.js.map"
+    ],
+    "component---src-pages-support-js": [
+      "component---src-pages-support-js-b7d1cf2da0f54fa0cf7e.js",
+      "component---src-pages-support-js-b7d1cf2da0f54fa0cf7e.js.map"
     ],
     "commons": [
       "commons-b47f41a17655493c6b17.js",
@@ -43,9 +51,9 @@
       "build-js-styles.css.map"
     ],
     "app": [
-      "app-2dd18b2635c5931b6c82.js",
+      "app-c334f3c52ccfccc3720c.js",
       "build-js-styles.css",
-      "app-2dd18b2635c5931b6c82.js.map",
+      "app-c334f3c52ccfccc3720c.js.map",
       "build-js-styles.css.map"
     ],
     "path---teamrecords": [
