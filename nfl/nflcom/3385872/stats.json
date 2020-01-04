@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---standings": [
-      "path---standings-6494a446c15b7744b6d8.js",
-      "path---standings-6494a446c15b7744b6d8.js.map"
+      "path---standings-8043f6d66c863bb7fb4d.js",
+      "path---standings-8043f6d66c863bb7fb4d.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-fa8a47d6446f840b24ca.js",
@@ -17,8 +17,8 @@
       "component---src-pages-gamerecords-js-3a7ced56798975e85250.js.map"
     ],
     "component---src-pages-teamrecords-js": [
-      "component---src-pages-teamrecords-js-c8ea0614aac196e5e4ce.js",
-      "component---src-pages-teamrecords-js-c8ea0614aac196e5e4ce.js.map"
+      "component---src-pages-teamrecords-js-a4860b600a29fdb83ab2.js",
+      "component---src-pages-teamrecords-js-a4860b600a29fdb83ab2.js.map"
     ],
     "component---src-pages-standings-js": [
       "component---src-pages-standings-js-c225e006dcfd283ad9e4.js",
@@ -37,8 +37,8 @@
       "path---support-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-5d31907405bcd39062ea.js",
-      "path---index-5d31907405bcd39062ea.js.map"
+      "path---index-dc8da38899e9cd9265f6.js",
+      "path---index-dc8da38899e9cd9265f6.js.map"
     ],
     "component---src-pages-support-js": [
       "component---src-pages-support-js-32ec748044a0fb6daf98.js",
@@ -55,16 +55,16 @@
       "build-js-styles.css.map"
     ],
     "path---teamrecords": [
-      "path---teamrecords-6494a446c15b7744b6d8.js",
-      "path---teamrecords-6494a446c15b7744b6d8.js.map"
+      "path---teamrecords-8043f6d66c863bb7fb4d.js",
+      "path---teamrecords-8043f6d66c863bb7fb4d.js.map"
     ],
     "path---gamerecords": [
-      "path---gamerecords-6494a446c15b7744b6d8.js",
-      "path---gamerecords-6494a446c15b7744b6d8.js.map"
+      "path---gamerecords-8043f6d66c863bb7fb4d.js",
+      "path---gamerecords-8043f6d66c863bb7fb4d.js.map"
     ],
     "path---headtohead": [
-      "path---headtohead-6494a446c15b7744b6d8.js",
-      "path---headtohead-6494a446c15b7744b6d8.js.map"
+      "path---headtohead-8043f6d66c863bb7fb4d.js",
+      "path---headtohead-8043f6d66c863bb7fb4d.js.map"
     ]
   }
 }
