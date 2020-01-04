@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "path---standings": [
-      "path---standings-6fd7cf60be4c8b9c2a75.js",
-      "path---standings-6fd7cf60be4c8b9c2a75.js.map"
+      "path---standings-6e22171405a40d8e35f2.js",
+      "path---standings-6e22171405a40d8e35f2.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-6deaad9e05a6d3b9042a.js",
-      "component---src-pages-index-js-6deaad9e05a6d3b9042a.js.map"
+      "component---src-pages-index-js-fa8a47d6446f840b24ca.js",
+      "component---src-pages-index-js-fa8a47d6446f840b24ca.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -17,8 +17,8 @@
       "component---src-pages-gamerecords-js-3a7ced56798975e85250.js.map"
     ],
     "component---src-pages-teamrecords-js": [
-      "component---src-pages-teamrecords-js-c8ea0614aac196e5e4ce.js",
-      "component---src-pages-teamrecords-js-c8ea0614aac196e5e4ce.js.map"
+      "component---src-pages-teamrecords-js-a4860b600a29fdb83ab2.js",
+      "component---src-pages-teamrecords-js-a4860b600a29fdb83ab2.js.map"
     ],
     "component---src-pages-standings-js": [
       "component---src-pages-standings-js-c225e006dcfd283ad9e4.js",
@@ -37,8 +37,8 @@
       "path---support-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-4c196c4f67c6833f9de8.js",
-      "path---index-4c196c4f67c6833f9de8.js.map"
+      "path---index-d19137c899935ada6f1a.js",
+      "path---index-d19137c899935ada6f1a.js.map"
     ],
     "component---src-pages-support-js": [
       "component---src-pages-support-js-32ec748044a0fb6daf98.js",
@@ -55,16 +55,16 @@
       "build-js-styles.css.map"
     ],
     "path---teamrecords": [
-      "path---teamrecords-6fd7cf60be4c8b9c2a75.js",
-      "path---teamrecords-6fd7cf60be4c8b9c2a75.js.map"
+      "path---teamrecords-6e22171405a40d8e35f2.js",
+      "path---teamrecords-6e22171405a40d8e35f2.js.map"
     ],
     "path---gamerecords": [
-      "path---gamerecords-6fd7cf60be4c8b9c2a75.js",
-      "path---gamerecords-6fd7cf60be4c8b9c2a75.js.map"
+      "path---gamerecords-6e22171405a40d8e35f2.js",
+      "path---gamerecords-6e22171405a40d8e35f2.js.map"
     ],
     "path---headtohead": [
-      "path---headtohead-6fd7cf60be4c8b9c2a75.js",
-      "path---headtohead-6fd7cf60be4c8b9c2a75.js.map"
+      "path---headtohead-6e22171405a40d8e35f2.js",
+      "path---headtohead-6e22171405a40d8e35f2.js.map"
     ]
   }
 }
