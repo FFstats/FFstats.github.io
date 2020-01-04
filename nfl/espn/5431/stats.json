@@ -1,0 +1,70 @@
+{
+  "assetsByChunkName": {
+    "path---standings": [
+      "path---standings-ddff03f1947729ba08c4.js",
+      "path---standings-ddff03f1947729ba08c4.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-7611a572603a191b6e93.js",
+      "component---src-pages-index-js-7611a572603a191b6e93.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-gamerecords-js": [
+      "component---src-pages-gamerecords-js-3a7ced56798975e85250.js",
+      "component---src-pages-gamerecords-js-3a7ced56798975e85250.js.map"
+    ],
+    "component---src-pages-teamrecords-js": [
+      "component---src-pages-teamrecords-js-c8ea0614aac196e5e4ce.js",
+      "component---src-pages-teamrecords-js-c8ea0614aac196e5e4ce.js.map"
+    ],
+    "component---src-pages-standings-js": [
+      "component---src-pages-standings-js-5198e55a2718c91c6fbe.js",
+      "component---src-pages-standings-js-5198e55a2718c91c6fbe.js.map"
+    ],
+    "component---src-pages-headtohead-js": [
+      "component---src-pages-headtohead-js-b38997ae6cf5ef948904.js",
+      "component---src-pages-headtohead-js-b38997ae6cf5ef948904.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-f347e5cf1b757f577190.js",
+      "component---src-layouts-index-js-f347e5cf1b757f577190.js.map"
+    ],
+    "path---support": [
+      "path---support-a0e39f21c11f6a62c5ab.js",
+      "path---support-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-6837acb222873dacf8fa.js",
+      "path---index-6837acb222873dacf8fa.js.map"
+    ],
+    "component---src-pages-support-js": [
+      "component---src-pages-support-js-32ec748044a0fb6daf98.js",
+      "component---src-pages-support-js-32ec748044a0fb6daf98.js.map"
+    ],
+    "commons": [
+      "commons-b47f41a17655493c6b17.js",
+      "commons-b47f41a17655493c6b17.js.map"
+    ],
+    "app": [
+      "app-c334f3c52ccfccc3720c.js",
+      "build-js-styles.css",
+      "app-c334f3c52ccfccc3720c.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---teamrecords": [
+      "path---teamrecords-ddff03f1947729ba08c4.js",
+      "path---teamrecords-ddff03f1947729ba08c4.js.map"
+    ],
+    "path---gamerecords": [
+      "path---gamerecords-ddff03f1947729ba08c4.js",
+      "path---gamerecords-ddff03f1947729ba08c4.js.map"
+    ],
+    "path---headtohead": [
+      "path---headtohead-ddff03f1947729ba08c4.js",
+      "path---headtohead-ddff03f1947729ba08c4.js.map"
+    ]
+  }
+}
