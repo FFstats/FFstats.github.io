@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "path---standings": [
-      "path---standings-24f0b3b462e8dbf12ff8.js",
-      "path---standings-24f0b3b462e8dbf12ff8.js.map"
+      "path---standings-81ec60d9c4151d5e48d8.js",
+      "path---standings-81ec60d9c4151d5e48d8.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-f3c0083d08067a617161.js",
-      "component---src-pages-index-js-f3c0083d08067a617161.js.map"
+      "component---src-pages-index-js-10e5a36f8bae2891f641.js",
+      "component---src-pages-index-js-10e5a36f8bae2891f641.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -37,8 +37,8 @@
       "path---support-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-0160e143c3a47dc92569.js",
-      "path---index-0160e143c3a47dc92569.js.map"
+      "path---index-2e967359d65f018d975f.js",
+      "path---index-2e967359d65f018d975f.js.map"
     ],
     "component---src-pages-support-js": [
       "component---src-pages-support-js-32ec748044a0fb6daf98.js",
@@ -55,16 +55,16 @@
       "build-js-styles.css.map"
     ],
     "path---teamrecords": [
-      "path---teamrecords-24f0b3b462e8dbf12ff8.js",
-      "path---teamrecords-24f0b3b462e8dbf12ff8.js.map"
+      "path---teamrecords-81ec60d9c4151d5e48d8.js",
+      "path---teamrecords-81ec60d9c4151d5e48d8.js.map"
     ],
     "path---gamerecords": [
-      "path---gamerecords-24f0b3b462e8dbf12ff8.js",
-      "path---gamerecords-24f0b3b462e8dbf12ff8.js.map"
+      "path---gamerecords-81ec60d9c4151d5e48d8.js",
+      "path---gamerecords-81ec60d9c4151d5e48d8.js.map"
     ],
     "path---headtohead": [
-      "path---headtohead-24f0b3b462e8dbf12ff8.js",
-      "path---headtohead-24f0b3b462e8dbf12ff8.js.map"
+      "path---headtohead-81ec60d9c4151d5e48d8.js",
+      "path---headtohead-81ec60d9c4151d5e48d8.js.map"
     ]
   }
 }
