@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Chambo Bowl",id:"94012",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----8bb8d08f2f6471908dc1.js.map
