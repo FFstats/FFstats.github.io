@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Frickin' Man's League",id:"70950",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----d4d4ddfd3c97fe38e2ed.js.map
