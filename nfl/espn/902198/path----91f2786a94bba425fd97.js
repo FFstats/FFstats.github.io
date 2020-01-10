@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Zeeb League",id:"902198",isPrivate:!1}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----91f2786a94bba425fd97.js.map
