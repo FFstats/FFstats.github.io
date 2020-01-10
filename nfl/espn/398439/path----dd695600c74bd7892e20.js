@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Manning's Disciples",id:"398439",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----dd695600c74bd7892e20.js.map
