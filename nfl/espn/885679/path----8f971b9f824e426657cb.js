@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Merger",id:"885679",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----8f971b9f824e426657cb.js.map
