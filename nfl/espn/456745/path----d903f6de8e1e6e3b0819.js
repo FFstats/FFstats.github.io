@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"AK Fantasy Football 2017",id:"456745",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----d903f6de8e1e6e3b0819.js.map
