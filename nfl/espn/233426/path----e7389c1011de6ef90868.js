@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Fuchsia Fantasy Futbol",id:"233426",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----e7389c1011de6ef90868.js.map
