@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Game of Touchdowns",id:"775904",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----50c2597d6f574ca56c8e.js.map
