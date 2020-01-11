@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"La Liga",id:"89041",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----be9df9fff0608b677a6e.js.map
