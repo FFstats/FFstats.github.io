@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Intergalactic Fantasy Football",id:"448284",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----8e726a486d80e258e03a.js.map
