@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Teddy Bridgewater Memorial",id:"1238536",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----0d68e7dbb6642b721404.js.map
