@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{202:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"GNS Fantasy Football",id:"365505",isPrivate:!0}]}}]}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{210:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"GNS Fantasy Football",id:"365505",isPrivate:!0}]}}]}},layoutContext:{}}}});
 //# sourceMappingURL=path----32e02a58597fc97a3202.js.map
