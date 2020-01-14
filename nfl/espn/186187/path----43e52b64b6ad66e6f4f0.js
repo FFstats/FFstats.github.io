@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Brave 10",id:"186187",isPrivate:!0}]}}]}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Brave 10",id:"186187",isPrivate:!0}]}}]}},layoutContext:{}}}});
 //# sourceMappingURL=path----43e52b64b6ad66e6f4f0.js.map
