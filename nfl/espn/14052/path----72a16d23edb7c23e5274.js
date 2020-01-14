@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Slooterson, Season VI",id:"14052",isPrivate:!0}]}}]}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Slooterson, Season VI",id:"14052",isPrivate:!0}]}}]}},layoutContext:{}}}});
 //# sourceMappingURL=path----72a16d23edb7c23e5274.js.map
