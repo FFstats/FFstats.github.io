@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Shabba Bowl",id:"1376709",isPrivate:!0}]}}]}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Shabba Bowl",id:"1376709",isPrivate:!0}]}}]}},layoutContext:{}}}});
 //# sourceMappingURL=path----7dd047854517d5c0e9a4.js.map
