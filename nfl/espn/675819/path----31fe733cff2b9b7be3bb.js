@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"League Episode 4: A New Hope",id:"675819",isPrivate:!0}]}}]}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"League Episode 4: A New Hope",id:"675819",isPrivate:!0}]}}]}},layoutContext:{}}}});
 //# sourceMappingURL=path----31fe733cff2b9b7be3bb.js.map
