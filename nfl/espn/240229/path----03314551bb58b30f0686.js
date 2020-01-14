@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The UCFL",id:"240229",isPrivate:!0}]}}]}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The UCFL",id:"240229",isPrivate:!0}]}}]}},layoutContext:{}}}});
 //# sourceMappingURL=path----03314551bb58b30f0686.js.map
