@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Beer Bellies",id:"1435139",isPrivate:!1}]}}]}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Beer Bellies",id:"1435139",isPrivate:!1}]}}]}},layoutContext:{}}}});
 //# sourceMappingURL=path----4494d6f33761716b2e1a.js.map
