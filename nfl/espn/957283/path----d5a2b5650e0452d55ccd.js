@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{202:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Fantasy Football 2018",id:"957283",isPrivate:!0}]}}]}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{210:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Fantasy Football 2018",id:"957283",isPrivate:!0}]}}]}},layoutContext:{}}}});
 //# sourceMappingURL=path----d5a2b5650e0452d55ccd.js.map
