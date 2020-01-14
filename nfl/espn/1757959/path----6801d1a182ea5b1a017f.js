@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Trades or GTFO",id:"1757959",isPrivate:!0}]}}]}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Trades or GTFO",id:"1757959",isPrivate:!0}]}}]}},layoutContext:{}}}});
 //# sourceMappingURL=path----6801d1a182ea5b1a017f.js.map
