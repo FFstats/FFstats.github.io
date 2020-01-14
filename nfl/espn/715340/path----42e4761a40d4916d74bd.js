@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"ZoNaZoO rEp ThA rEd AnD bLuE",id:"715340",isPrivate:!1}]}}]}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"ZoNaZoO rEp ThA rEd AnD bLuE",id:"715340",isPrivate:!1}]}}]}},layoutContext:{}}}});
 //# sourceMappingURL=path----42e4761a40d4916d74bd.js.map
