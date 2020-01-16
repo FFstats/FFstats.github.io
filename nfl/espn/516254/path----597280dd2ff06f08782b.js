@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{210:function(e,t){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Shit That Watered the Plants",id:"516254",isPrivate:!1}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----597280dd2ff06f08782b.js.map

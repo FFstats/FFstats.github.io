@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Doodie That Micturated",id:"516254",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----0f6bec6bb057a6965ef7.js.map
