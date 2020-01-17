@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{210:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Chach Fantasy",id:"346765",isPrivate:!1}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----d94366ff19b9011f9554.js.map
