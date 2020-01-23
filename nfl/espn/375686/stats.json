@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "path---standings": [
-      "path---standings-e05d53c26470f8b35725.js",
-      "path---standings-e05d53c26470f8b35725.js.map"
+      "path---standings-69acb7da5c288777717b.js",
+      "path---standings-69acb7da5c288777717b.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-0482ed3dc50736d8389b.js",
-      "component---src-pages-index-js-0482ed3dc50736d8389b.js.map"
+      "component---src-pages-index-js-785ba297e3de43b45ab1.js",
+      "component---src-pages-index-js-785ba297e3de43b45ab1.js.map"
     ],
     "path---": [
       "path----9a02d6acb3c06d35a329.js",
@@ -17,20 +17,20 @@
       "component---src-pages-gamerecords-js-5a8b4a808ff087004329.js.map"
     ],
     "component---src-pages-teamrecords-js": [
-      "component---src-pages-teamrecords-js-60bbd740255a6eb85368.js",
-      "component---src-pages-teamrecords-js-60bbd740255a6eb85368.js.map"
+      "component---src-pages-teamrecords-js-43e556a96271a32c42a6.js",
+      "component---src-pages-teamrecords-js-43e556a96271a32c42a6.js.map"
     ],
     "component---src-pages-standings-js": [
-      "component---src-pages-standings-js-0f94cac08fbcedc9eb61.js",
-      "component---src-pages-standings-js-0f94cac08fbcedc9eb61.js.map"
+      "component---src-pages-standings-js-eb66f31162898f7ce150.js",
+      "component---src-pages-standings-js-eb66f31162898f7ce150.js.map"
     ],
     "component---src-pages-headtohead-js": [
       "component---src-pages-headtohead-js-55419f773099d4771c55.js",
       "component---src-pages-headtohead-js-55419f773099d4771c55.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-948399240b430e1602f8.js",
-      "component---src-layouts-index-js-948399240b430e1602f8.js.map"
+      "component---src-layouts-index-js-6324515851f9354ace93.js",
+      "component---src-layouts-index-js-6324515851f9354ace93.js.map"
     ],
     "path---support": [
       "path---support-a0e39f21c11f6a62c5ab.js",
@@ -59,8 +59,8 @@
       "path---roadmap-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---teamrecords": [
-      "path---teamrecords-e05d53c26470f8b35725.js",
-      "path---teamrecords-e05d53c26470f8b35725.js.map"
+      "path---teamrecords-69acb7da5c288777717b.js",
+      "path---teamrecords-69acb7da5c288777717b.js.map"
     ],
     "path---gamerecords": [
       "path---gamerecords-e05d53c26470f8b35725.js",
