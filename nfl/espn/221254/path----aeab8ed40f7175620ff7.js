@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Revenge of the Donkey",id:"221254",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----aeab8ed40f7175620ff7.js.map
