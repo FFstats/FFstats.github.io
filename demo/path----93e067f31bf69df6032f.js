@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{210:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Paisas",id:"375686",isPrivate:!1}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----93e067f31bf69df6032f.js.map
