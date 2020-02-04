@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Champagne of Beers FFL",id:"779588",isPrivate:!1}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----f0a9b8972ae283c890b8.js.map
