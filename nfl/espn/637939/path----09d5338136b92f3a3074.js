@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"V-side Fantasy Football League",id:"637939",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----09d5338136b92f3a3074.js.map
