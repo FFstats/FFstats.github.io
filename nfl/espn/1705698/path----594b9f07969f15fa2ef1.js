@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Bush League 2018",id:"1705698",isPrivate:!0}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----594b9f07969f15fa2ef1.js.map
