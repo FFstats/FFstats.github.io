@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Schwab",id:"81479",isPrivate:!1}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----31de48079fb069712ac0.js.map
