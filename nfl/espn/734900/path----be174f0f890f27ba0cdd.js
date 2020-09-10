@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Futbol de Fantasia",id:"390.l.623051",isPrivate:!1}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----be174f0f890f27ba0cdd.js.map
