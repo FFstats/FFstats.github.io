@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Jestly Jimmies",id:"726190",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----e7228b4932d3c4537e75.js.map
