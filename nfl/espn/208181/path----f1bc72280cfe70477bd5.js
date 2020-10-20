@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Fantasy Follies",id:"208181",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----f1bc72280cfe70477bd5.js.map
