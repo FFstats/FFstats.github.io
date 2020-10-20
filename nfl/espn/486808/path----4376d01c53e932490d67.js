@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Meso and Fwends",id:"486808",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----4376d01c53e932490d67.js.map
