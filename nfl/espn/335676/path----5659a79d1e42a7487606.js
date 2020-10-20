@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Thomas MF'n Jones '19 (10th yr!)",id:"335676",isPrivate:!1}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----5659a79d1e42a7487606.js.map
