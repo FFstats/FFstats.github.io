@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Morgantown Legends",id:"64312",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----6de1427e11e0b0524c64.js.map
