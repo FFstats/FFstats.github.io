@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Super Football League",id:"208238",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----bcdd868597cb2f8e5fb8.js.map
