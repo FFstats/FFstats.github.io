@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"4 Dunkin Donuts 1 Traffic Light",id:"882059",isPrivate:!1}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----0712593b244581b602ab.js.map
