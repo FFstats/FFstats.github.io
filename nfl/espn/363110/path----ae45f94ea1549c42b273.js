@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Champions Fantasy League",id:"363110",isPrivate:!1}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----ae45f94ea1549c42b273.js.map
