@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{202:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Nerd Football",id:"750388",isPrivate:!1}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----c982fd5fb6933f5c6e12.js.map
