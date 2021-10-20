@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Year of The Gauntlet!",id:"1053839",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----5262a1628e4fe66ee281.js.map
