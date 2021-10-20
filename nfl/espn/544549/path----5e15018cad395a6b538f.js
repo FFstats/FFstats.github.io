@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"TIKI Fantasy League",id:"544549",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----5e15018cad395a6b538f.js.map
