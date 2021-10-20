@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Hitler, Nazis, and Clubbed Seals",id:"367450",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----247588b37120eb73dc88.js.map
