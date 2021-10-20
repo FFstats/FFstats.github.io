@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"SNU Spring '13",id:"562477",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----5927110b01ecb1808297.js.map
