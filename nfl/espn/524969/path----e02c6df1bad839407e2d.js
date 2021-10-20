@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,t){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"UMSL Optometry",id:"524969",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----e02c6df1bad839407e2d.js.map
