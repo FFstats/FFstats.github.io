@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"The Extraordinary League of Or..",id:"1550739",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----206a2b4d2d01e85e5c6d.js.map
