@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Family Matters 2",id:"1599517",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----8bc8a1e81877d08cecf1.js.map
