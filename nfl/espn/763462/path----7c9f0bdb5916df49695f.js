@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Cramer Fantasy Football",id:"763462",isPrivate:!0}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----7c9f0bdb5916df49695f.js.map
