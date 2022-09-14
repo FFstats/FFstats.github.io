@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Wizard League",id:"518950740376506368",isPrivate:!1}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----eb2a8f9a3cc9241a2b56.js.map
