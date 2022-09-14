@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(a,e){a.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"11 Amateurs and 1 Pro Dynasty",id:"454083306716131328",isPrivate:!1}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----2a28bdde64260bccc14f.js.map
