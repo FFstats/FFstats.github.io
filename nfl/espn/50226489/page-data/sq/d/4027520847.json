@@ -1,1 +1,1 @@
-{"data":{"allSettingsJson":{"edges":[{"node":{"isPrivate":false,"leagueName":"Futbol","paid":false,"paidAmount":0,"subscription":"none"}}]}}}
+{"data":{"allSettingsJson":{"edges":[{"node":{"isPrivate":true,"leagueName":"Futbol","paid":true,"paidAmount":0,"subscription":"none"}}]}}}
