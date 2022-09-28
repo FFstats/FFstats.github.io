@@ -1,1 +1,1 @@
-{"errors":[{"message":"Cannot query field \"allSettingsJson\" on type \"Query\".","locations":[{"line":2,"column":3}]}]}
+{"data":{"allSettingsJson":{"edges":[{"node":{"isPrivate":false,"leagueName":"Chicken Parm on a Bagel","paid":false,"paidAmount":0,"subscription":""}}]}}}
