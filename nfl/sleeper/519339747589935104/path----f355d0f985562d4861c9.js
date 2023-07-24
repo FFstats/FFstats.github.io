@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{210:function(e,a){e.exports={data:{allDataJson:{edges:[{node:{leagueSettings:[{leagueName:"Sleeper Friends League",id:"519339747589935104",isPrivate:!1}]}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----f355d0f985562d4861c9.js.map

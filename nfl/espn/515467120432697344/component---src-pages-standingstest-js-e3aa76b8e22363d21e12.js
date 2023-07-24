@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{"Lf+c":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),s=t.n(n);t("Bl7J"),t("rMbk"),t("/riL"),t("xU0K"),t("aIYv");a.default=function(){var e=s.a.useState([]);e[0],e[1];return s.a.useEffect((function(){}),[]),s.a.createElement(s.a.Fragment,null,s.a.createElement("div",{className:"mus"},"Hola esto es algo"))}}}]);
-//# sourceMappingURL=component---src-pages-standingstest-js-e3aa76b8e22363d21e12.js.map
